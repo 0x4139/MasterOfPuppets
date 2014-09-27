@@ -1,6 +1,6 @@
 {
   "name": "master-of-puppets",
-  "version": "3.0.0",
+  "version": "1.0.1",
   "description": "MasterOfPuppets is a dynamic loadbalancer that allows any child to connect with the master on the fly",
   "main": "index.js",
   "scripts": {
