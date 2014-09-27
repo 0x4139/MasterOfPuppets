@@ -1,5 +1,5 @@
 {
-  "name": "MasterOfPuppets",
+  "name": "master-of-puppets",
   "version": "1.0.0",
   "description": "MasterOfPuppets is a dynamic loadbalancer that allows any child to connect with the master on the fly",
   "main": "index.js",
@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.9.5",
-    "http-proxy": "^1.4.3",
     "mysql": "^2.5.1",
     "winston": "^0.8.0",
     "ws": "^0.4.32"
