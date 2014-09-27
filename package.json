@@ -1,6 +1,6 @@
 {
   "name": "master-of-puppets",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "MasterOfPuppets is a dynamic loadbalancer that allows any child to connect with the master on the fly",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,6 @@
   "author": "0x4139@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.9.5",
     "mysql": "^2.5.1",
     "winston": "^0.8.0",
     "ws": "^0.4.32"
